@@ -1,0 +1,31 @@
+{
+  "name": "excelfilter",
+  "version": "1.0.0",
+  "description": "basic filter from excel temp project by shivamyeshu",
+  "keywords": [
+    "excel",
+    "filter",
+    "shivamyeshu",
+    "api",
+    "nodejs",
+    "express",
+    "cors",
+    "ejs",
+    "xlsx",
+    "basic"
+  ],
+  "license": "ISC",
+  "author": "shivam yeshu",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "xlsx": "^0.18.5"
+  }
+}

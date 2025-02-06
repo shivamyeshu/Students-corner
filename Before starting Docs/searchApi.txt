@@ -1,0 +1,14 @@
+How to Use This API?
+
+SINGLE FILTER ...
+
+http://localhost:5000/search?enrollment=12345678
+http://localhost:5000/search?name=shivam
+http://localhost:5000/search?branch=IT
+http://localhost:5000/search?cgpa=8.5
+http://localhost:5000/search?skills=web dev
+
+COMBINE MULTIPLE FILTER ...
+
+(KEY= PAIR & KEY= PAIR)
+http://localhost:5000/search?branch=IT&cgpa=8.0&placed=selected

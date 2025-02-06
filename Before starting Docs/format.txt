@@ -1,0 +1,27 @@
+This format includes the following columns :
+{
+    Enrollment Number - Unique ID for each student
+    Name - Full name of the student
+    Roll Number - University or College Roll Number
+    Date of Birth - Format: DD-MM-YYYY
+    Gender - Male/Female/Other
+    Course - B.Tech, B.Sc, etc.
+    Branch - IT, CSE, ECE, etc.
+    Semester - Current semester (1st, 2nd, etc.)
+    Section - A, B, C, etc.
+    CGPA - Cumulative Grade Point Average
+    Attendance (%) - Attendance percentage
+    Email - Student’s email ID
+    Phone Number - Student's contact number
+    Parent’s Contact - Parent/Guardian’s phone number
+    Address - Home address
+    Hostel (Y/N) - Whether the student lives in hostel
+    Scholarship - Scholarship status (Merit-Based, Need-Based, None)
+    Placement Status - Selected/Not Selected
+    Company Name - If placed, name of the company
+    Skills - Technical skills (e.g., Python, Web Dev, ML, IoT, etc.)
+    Projects - Notable academic or personal projects
+    Internship - Any internship experience
+    Certifications - Relevant certificates (e.g., AWS, Google, Coursera)
+    Extracurricular Activities - Participation in clubs, sports, etc.
+}
