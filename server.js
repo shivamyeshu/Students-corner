@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 // Load and Read Excel File
-const workbook = xlsx.readFile("students.xlsx");
+const workbook = xlsx.readFile("/dataSet/students.xlsx");
 const sheet_name = workbook.SheetNames[0];
 const studentData = xlsx.utils.sheet_to_json(workbook.Sheets[sheet_name]);
 
