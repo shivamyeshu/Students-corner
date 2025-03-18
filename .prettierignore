@@ -1,0 +1,17 @@
+# Ignore all files in the node_modules directory
+node_modules/
+
+# Ignore all JavaScript files in the build folder
+build/*.js
+
+package-lock.json
+package.json
+
+# Ignore specific file
+src/legacy-file.js
+
+# Ignore all files with a specific extension
+*.min.js
+
+# Ignore a directory
+src/vendor/
